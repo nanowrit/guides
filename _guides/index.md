@@ -21,7 +21,7 @@ redirect_from:
       <p>
         A tool to articulate and save all your great story ideas in one place.
       </p>
-      <a href="{{ 'guides/PremiseBuilder/' | relative_url }}">How to use PremiseBuilder &rarr;</a>
+      <a href="{{ 'guides/PremiseBuilder/' | absolute_url }}">How to use PremiseBuilder &rarr;</a>
     </div>
     <!-- <div class="unit one-third">
       <h2>CharacterCreator</h2>

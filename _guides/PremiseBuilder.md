@@ -1,10 +1,6 @@
 ---
 title: PremiseBuilder
-permalink: /guides/PremiseBuilder
-# redirect_from:
-#   - /docs/home/
-#   - /docs/quickstart/
-#   - /docs/extras/
+permalink: /guides/PremiseBuilder/
 ---
 
 ## What is PremiseBuilder?
