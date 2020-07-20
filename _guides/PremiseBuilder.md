@@ -1,6 +1,6 @@
 ---
 title: PremiseBuilder
-permalink: /guides/PremiseBuilder/
+# permalink: /guides/PremiseBuilder/
 ---
 
 ## What is PremiseBuilder?
