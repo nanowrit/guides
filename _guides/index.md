@@ -1,10 +1,6 @@
 ---
 title: The Guides
 permalink: /guides/
-redirect_from:
-  - /docs/home/
-  - /docs/quickstart/
-  - /docs/extras/
 ---
 
 <!-- <section class="intro">

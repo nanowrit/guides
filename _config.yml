@@ -7,6 +7,8 @@ repository: https://github.com/nanowrit/guides
 timezone: America/Denver
 twitter:
   username: NanowritLabs
+  logo: "/img/logo-2x.png"
+  google_analytics_id: UA-162103982-3 
 collections:
   # docs:
   #   permalink: "/:collection/:path/"
